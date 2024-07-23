@@ -1,5 +1,5 @@
-Here’s a sample README file for your VAE model that you can use for your GitHub repository:
-Variational Autoencoder (VAE) Model
+
+#Variational Autoencoder (VAE) Model
 
 This repository contains a Variational Autoencoder (VAE) model implemented in Python using TensorFlow and Keras. The VAE is a generative model that learns a probabilistic mapping from the input space to a latent space and is capable of generating new data samples.
 Table of Contents
